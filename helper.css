@@ -1,0 +1,28 @@
+.spacer45 {
+    height: 45px;
+    width: 100px;
+}
+
+.spacer30 {
+    height: 30px;
+    width: 100px;
+}
+
+.spacer70 {
+    height: 70px;
+    width: 100px;
+}
+
+.anchor-link {
+    text-decoration: none;
+}
+
+.anchor-link:focus {
+    outline: none;
+}
+
+/*.anchor-link h1::after/ ::before {
+    font-family: "Font Awesome 5 Free";(F.A rules)
+    content: " /f0c1";(unicode)
+    font-weight: 900;(f.A rules)
+}*/
